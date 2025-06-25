@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Julia, sou de Aracaju-SE, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou construindo minha jornada com dedicação, curiosidade e muito código.
+Me chamo Julia, sou de Aracaju-SE, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 ---
 
@@ -80,7 +80,8 @@ Me chamo Julia, sou de Aracaju-SE, tenho 18 anos e sou estudante de Análise e D
 
 ### 📫 Contato
 
-- ✉️ julia.souza@email.com  
+- ✉️ julia.souza@email.com
+- 📞 (79) 99863-9839
 
 ---
 
