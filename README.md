@@ -80,7 +80,7 @@ Me chamo Julia, sou de Aracaju-SE, tenho 18 anos e sou estudante de Análise e D
 
 ### 📫 Contato
 
-- ✉️ julia.souza@email.com
+- ✉️ julia.souzaajss@gnail.com
 - 📞 (79) 99863-9839
 
 ---
