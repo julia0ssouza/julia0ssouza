@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Julia, sou de Aracaju-SE, tenho 19anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+Me chamo Julia, sou de Aracaju-SE, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 ---
 
